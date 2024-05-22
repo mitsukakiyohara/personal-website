@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/personal-website/static/css/main.73b60bf4.css",
+    "main.js": "/personal-website/static/js/main.bb24ae33.js",
+    "static/media/bito.png": "/personal-website/static/media/bito.13f09b437b6c6a7d5520.png",
+    "static/media/music-app.png": "/personal-website/static/media/music-app.c7d535113e64c8257c32.png",
+    "static/media/3.JPG": "/personal-website/static/media/3.25fabd0199b808879b6c.JPG",
+    "index.html": "/personal-website/index.html",
+    "main.73b60bf4.css.map": "/personal-website/static/css/main.73b60bf4.css.map",
+    "main.bb24ae33.js.map": "/personal-website/static/js/main.bb24ae33.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.73b60bf4.css",
+    "static/js/main.bb24ae33.js"
+  ]
+}
